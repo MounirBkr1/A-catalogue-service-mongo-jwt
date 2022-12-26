@@ -1,6 +1,6 @@
 package com.mnr.catalogueservice.security;
 
-public Interface SecurityParams {
+public interface SecurityParams {
     //definir des constantes
     public static final String JWT_HEADER_NAME="Authorization";
     public static final String SECRET = "miirbri1@gmail.com";
