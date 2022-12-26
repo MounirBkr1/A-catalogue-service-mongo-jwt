@@ -68,5 +68,3 @@ public class CatalogueServiceApplication {
 }
 
 
-//31 min
-
